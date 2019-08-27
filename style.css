@@ -1,0 +1,23 @@
+body{
+  background-color: #E4DACE;
+}
+h1{
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  text-align: center;
+}
+h2{
+  color: #eea990;
+}
+.important{
+  font-size: 300%;
+  color: #0086ad;
+  text-shadow: 2px 2px;
+}
+img{
+  border-radius: 50%;
+}
+.end{
+  background-color: #005582;
+  iframe width=430;height=320;
+}
